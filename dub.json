@@ -1,0 +1,1 @@
+{"libs" : ["raylib"], "lflags-posix" : ["-L."], "lflags-osx" : ["-rpath", "@executable_path/"], "lflags-linux" : ["-rpath=$$ORIGIN"], "description" : "Remnant game", "name" : "remnant_dlang", "dependencies" : {"raylib-d" : "~>5.5.1"}, "authors" : ["Boyd Trolinger"], "copyright" : "Copyright © 2025, Boyd Trolinger", "license" : "BSD-3-Clause"}
